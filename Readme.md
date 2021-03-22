@@ -55,8 +55,8 @@
 
 具体用法我就不介绍了，大家可以看这两个链接：
 
-1. 杭州西湖最全爬山登山路线图经典推荐-杭州登山地图APP https://www.jianshu.com/p/2b7c4ca8da92
-2. 【转载】推荐一个app，收纳杭州最全登山地图！附亲测过的亲子徒步路线推荐 https://www.jianshu.com/p/d29d3d770a4e
+1. 杭州西湖最全爬山登山路线图经典推荐-杭州登山地图APP https://www.jianshu.com/p/2b7c4ca8da92 ，App Store地址：https://apps.apple.com/cn/app/id1267234289
+3. 【转载】推荐一个app，收纳杭州最全登山地图！附亲测过的亲子徒步路线推荐 https://www.jianshu.com/p/d29d3d770a4e
 
 有了这个app就方便很多了（简直开了天眼了），有支路、野路、上山口子等等。特别是他提供了很多路线，点击对应的路线，会在地图上给你标注出来。
 
